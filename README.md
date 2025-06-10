@@ -1,6 +1,9 @@
 # Currency converter
 
-I would like to presented the online currency exchange converter
+I would like to presented the online currency exchange converter 
+
+## Demo 
+https://parvinaodinaeva.github.io/IV---homepage_currency_converter/
 
 ## Technologies used
 - HTML
