@@ -15,4 +15,10 @@ body {
     font-size: 20px;
     line-height: 2;
     text-align: justify;
+    color: white;
+    background-image: url("../image/background.jpg");
+    resize: both;
+    overflow: auto;
+    background-position: top;
+    background-size: cover;
 }
